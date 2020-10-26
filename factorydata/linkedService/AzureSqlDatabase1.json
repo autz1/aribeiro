@@ -6,7 +6,7 @@
 		"type": "AzureSqlDatabase",
 		"typeProperties": {
 			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=aribeiro.database.windows.net;initial catalog=ARibeiroSQL;user id=sysadmin",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkFSSUJFSVJPRkFDVE9SWV85NzFmZTU3OC0xMjMxLTQ4OWQtOGNlMS00NWU3Nzk4Zjg0OGMiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkFSSUJFSVJPRkFDVE9SWV8xNWY2NGI5Yi1hYWI5LTQyZTItODNlOS1hMjhmYTczM2E5YWEiDQp9"
 		}
 	}
 }
