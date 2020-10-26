@@ -1,0 +1,27 @@
+{
+	"name": "integrationRuntime1",
+	"properties": {
+		"type": "Managed",
+		"typeProperties": {
+			"computeProperties": {
+				"location": "Brazil South",
+				"nodeSize": "Standard_D8_v3",
+				"numberOfNodes": 1,
+				"maxParallelExecutionsPerNode": 8
+			},
+			"ssisProperties": {
+				"catalogInfo": {
+					"catalogServerEndpoint": "aribeiro.database.windows.net",
+					"catalogAdminUserName": "sysadmin",
+					"catalogAdminPassword": {
+						"type": "SecureString",
+						"value": "**********"
+					},
+					"catalogPricingTier": "S1"
+				},
+				"edition": "Standard",
+				"licenseType": "BasePrice"
+			}
+		}
+	}
+}
